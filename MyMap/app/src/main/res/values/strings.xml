@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="SnackBar">\"Found 20 Results</string>
+    <string name="title_activity_restaurants_on__map">Map</string>
+    <string name="title_activity_tabactivity">Tabactivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">You selected: %1$d</string>
+</resources>
